@@ -1,1 +1,9 @@
 /Users/pedrorchagas/Documents/Projetos/PetShopMagico/src/main/java/org/psgd/petshop/PetShopMagico.java
+/Users/pedrorchagas/Documents/Projetos/PetShopMagico/src/main/java/org/psgd/petshop/controller/AnimaisController.java
+/Users/pedrorchagas/Documents/Projetos/PetShopMagico/src/main/java/org/psgd/petshop/controller/InterfaceController.java
+/Users/pedrorchagas/Documents/Projetos/PetShopMagico/src/main/java/org/psgd/petshop/controller/UsuarioController.java
+/Users/pedrorchagas/Documents/Projetos/PetShopMagico/src/main/java/org/psgd/petshop/repository/AnimaisRepository.java
+/Users/pedrorchagas/Documents/Projetos/PetShopMagico/src/main/java/org/psgd/petshop/repository/UsuarioRepository.java
+/Users/pedrorchagas/Documents/Projetos/PetShopMagico/src/main/java/org/psgd/petshop/service/AnimaisService.java
+/Users/pedrorchagas/Documents/Projetos/PetShopMagico/src/main/java/org/psgd/petshop/service/InterfaceService.java
+/Users/pedrorchagas/Documents/Projetos/PetShopMagico/src/main/java/org/psgd/petshop/service/UsuarioService.java
